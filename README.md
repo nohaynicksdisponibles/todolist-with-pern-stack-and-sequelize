@@ -24,3 +24,5 @@ La tabla con los items podrá filtrar por categorías para facilitar la busqueda
 
 Aquí se muestra como ejemplo el filtrado con la cetegoría jugos
 <img src="https://bl3302files.storage.live.com/y4mY9HAkrV8TPuQeEIEB9vDbJ0yMhYLW9NGx1h35NCu_Q7xgYHqqSWYsdmCErHtHRBnpgqAdghCjUZrgKQaJ-DczxXsvUiPXk4X7QkzGhA45cMberltQ4eEkc04fa3uKpuq5SPzq40ylWj2HuDsMKFQybJYAUSePiA04iS0LhY7ptNc6sIdzcD65hELcdaEwv4O?width=1281&height=306&cropmode=none" width="100%" />
+
+Los items pueden editarse y eliminarse.
