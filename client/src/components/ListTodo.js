@@ -33,7 +33,12 @@ const ListTodo = () => {
 
                 return;
             });
-            setCategories(arrCategories)
+            
+            let result = arrCategories.filter((item,index)=>{
+                return arrCategories.indexOf(item) === index;
+            })
+
+            setCategories(result)
 
             if(text==="todos"){
                 setTodos([])
